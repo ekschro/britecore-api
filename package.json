@@ -1,0 +1,9 @@
+{
+  "name": "britecore-api",
+  "version": "0.0.0",
+  "description": "Asynchronous JS implementation of the BriteCore API 2.0",
+  "main": "index.js",
+  "repository": "git@github.com:ekschro/britecore-api.git",
+  "author": "Ericsson Schroeter <ekschro@protonmail.com>",
+  "license": "MIT"
+}
