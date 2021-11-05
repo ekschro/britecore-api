@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:ekschro/britecore-api.git",
   "author": "Ericsson Schroeter <ekschro@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
